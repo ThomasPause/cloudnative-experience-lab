@@ -10,6 +10,6 @@ spec:
   sourceRef:
     kind: GitRepository
     name: flux-system
-  path: ./applications/aws/cloud-native-explab
+  path: ./applications
   prune: true
   validation: client
